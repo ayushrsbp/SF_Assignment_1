@@ -1,0 +1,49 @@
+#navbar li:hover{
+    background-color: green;
+    border-radius: 12px;
+}
+#navbar li a:hover,#btn_contact a:hover{
+    color: white;
+}
+#btn_contact:hover{
+    background-color: green;
+    border: 3px solid blue;
+}
+.card:hover {
+    border: 2px solid blue;
+    color: aqua;
+    /* max-width: 6.3em;
+    height: 10.5em; */
+}
+.pbtn:hover{
+background-color: black;
+border: 2px solid white;
+}
+.pbtn a:hover{
+    color: white;
+}
+.pbtn:active{
+    background-color: rgb(61, 58, 58);
+}
+.skill_card:hover{
+    border: 2px solid blue;
+    background-color: aqua;
+    color: red;
+}
+.pbtn a:active{
+    color: red;
+}
+/* skill card */
+
+.skill_card h3:hover{
+    color: white;
+}
+/* Contact form */
+.input:hover{
+    border: 2px solid white;
+    background-color: transparent;
+    color: aqua;
+}
+#submit input:hover{
+    cursor: pointer;
+}
